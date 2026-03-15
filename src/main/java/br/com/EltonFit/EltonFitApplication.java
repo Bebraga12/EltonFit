@@ -1,4 +1,4 @@
-package br.com.EltonFit.EltonFit;
+package br.com.EltonFit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
